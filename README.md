@@ -13,9 +13,15 @@
 
 ## 📱 Screenshots
 
-| Timer Screen | History Screen | Stats Screen | Settings Screen |
-|---|---|---|---|
-| ![timer](<img width="720" height="1612" alt="Image" src="https://github.com/user-attachments/assets/2316f337-35bc-4fe7-9df5-6e5c6a2f45f4" />) | ![history](<img width="720" height="1612" alt="Image" src="https://github.com/user-attachments/assets/8829a268-a956-4b30-8549-4a2893e3c813" />) | ![stats](<img width="720" height="1612" alt="Image" src="https://github.com/user-attachments/assets/691a60e0-87ab-4c14-a308-2d4604e0b666" />) | ![settings](<img width="720" height="1612" alt="Image" src="https://github.com/user-attachments/assets/3e4e7af6-156d-421d-a221-3e637a27e399" />) |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2316f337-35bc-4fe7-9df5-6e5c6a2f45f4" width="220"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/8829a268-a956-4b30-8549-4a2893e3c813" width="220"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/691a60e0-87ab-4c14-a308-2d4604e0b666" width="220"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/3e4e7af6-156d-421d-a221-3e637a27e399" width="220"/>
+</p>
 
 ---
 
