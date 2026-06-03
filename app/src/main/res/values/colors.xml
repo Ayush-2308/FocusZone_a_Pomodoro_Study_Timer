@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0F0F0F</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="surface_alt">#171717</color>
+    <color name="surface_stroke">#2A2A2A</color>
+    <color name="ring_background">#2A2A2A</color>
+
+    <color name="focus_orange">#FF6B35</color>
+    <color name="short_break_green">#4CAF50</color>
+    <color name="long_break_blue">#2196F3</color>
+    <color name="danger_red">#E53935</color>
+
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="text_tertiary">#777777</color>
+
+    <color name="orange_20">#33FF6B35</color>
+    <color name="orange_light">#FFAD85</color>
+    <color name="gray_chart">#5F5F5F</color>
+    <color name="transparent">#00000000</color>
+</resources>

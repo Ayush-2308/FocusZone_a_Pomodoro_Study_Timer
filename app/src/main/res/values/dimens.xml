@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">20dp</dimen>
+    <dimen name="card_radius">8dp</dimen>
+    <dimen name="ring_stroke">20dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="section_gap">18dp</dimen>
+    <dimen name="item_gap">10dp</dimen>
+</resources>

@@ -1,0 +1,54 @@
+com.focuszone.app-jetified-window-1.0.0-0 C:\Users\ayush\.gradle\caches\9.0.0\transforms\05c220aabbfb0e9144cbd66f74486baa\transformed\jetified-window-1.0.0\res
+com.focuszone.app-jetified-emoji2-1.3.0-1 C:\Users\ayush\.gradle\caches\9.0.0\transforms\075aad6c064b378f15da35859c22165c\transformed\jetified-emoji2-1.3.0\res
+com.focuszone.app-dynamicanimation-1.1.0-2 C:\Users\ayush\.gradle\caches\9.0.0\transforms\093d31f1446333394e67e2498b2bdb0b\transformed\dynamicanimation-1.1.0\res
+com.focuszone.app-fragment-1.6.2-3 C:\Users\ayush\.gradle\caches\9.0.0\transforms\22cd921612ad634ee67d54850a3861e8\transformed\fragment-1.6.2\res
+com.focuszone.app-jetified-activity-1.10.1-4 C:\Users\ayush\.gradle\caches\9.0.0\transforms\24323c770730b4f3998c0cb5e6d27534\transformed\jetified-activity-1.10.1\res
+com.focuszone.app-jetified-graphics-shapes-release-5 C:\Users\ayush\.gradle\caches\9.0.0\transforms\24c8cce4f599441ed6cd82125bdcc51e\transformed\jetified-graphics-shapes-release\res
+com.focuszone.app-jetified-emoji2-views-helper-1.3.0-6 C:\Users\ayush\.gradle\caches\9.0.0\transforms\2a1c80c83a2374155580bcfa386de182\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.focuszone.app-appcompat-1.7.1-7 C:\Users\ayush\.gradle\caches\9.0.0\transforms\30b91b4fe262663c10d7ec8e1251a109\transformed\appcompat-1.7.1\res
+com.focuszone.app-jetified-navigation-common-release-8 C:\Users\ayush\.gradle\caches\9.0.0\transforms\3617aa64a18d96ffc11d45fae1b95e09\transformed\jetified-navigation-common-release\res
+com.focuszone.app-jetified-fragment-ktx-1.6.2-9 C:\Users\ayush\.gradle\caches\9.0.0\transforms\3726629cb054c408600c32c2591aba97\transformed\jetified-fragment-ktx-1.6.2\res
+com.focuszone.app-core-runtime-2.2.0-10 C:\Users\ayush\.gradle\caches\9.0.0\transforms\44c31314c09bb5f58e91a8b4eb8c2182\transformed\core-runtime-2.2.0\res
+com.focuszone.app-lifecycle-livedata-2.9.4-11 C:\Users\ayush\.gradle\caches\9.0.0\transforms\4b461e2ab58fe1ada0fdd0d64a55d0a7\transformed\lifecycle-livedata-2.9.4\res
+com.focuszone.app-recyclerview-1.4.0-12 C:\Users\ayush\.gradle\caches\9.0.0\transforms\5ef33e0d3f02a069cf01647452bf962f\transformed\recyclerview-1.4.0\res
+com.focuszone.app-navigation-fragment-2.9.5-13 C:\Users\ayush\.gradle\caches\9.0.0\transforms\6221694c63af1c0bd928c52cff5cc3ca\transformed\navigation-fragment-2.9.5\res
+com.focuszone.app-navigation-ui-2.9.5-14 C:\Users\ayush\.gradle\caches\9.0.0\transforms\67ae0631b94d9bf80a29a4bbfbc88bb7\transformed\navigation-ui-2.9.5\res
+com.focuszone.app-jetified-lifecycle-runtime-release-15 C:\Users\ayush\.gradle\caches\9.0.0\transforms\6d297ad71a9abb57c18e7c5e20b13219\transformed\jetified-lifecycle-runtime-release\res
+com.focuszone.app-jetified-customview-poolingcontainer-1.0.0-16 C:\Users\ayush\.gradle\caches\9.0.0\transforms\7782f49d1abacbbfcadca86a3013576d\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.focuszone.app-jetified-profileinstaller-1.4.0-17 C:\Users\ayush\.gradle\caches\9.0.0\transforms\78e234daad057f9f60d4615d665c9757\transformed\jetified-profileinstaller-1.4.0\res
+com.focuszone.app-jetified-viewpager2-1.1.0-beta02-18 C:\Users\ayush\.gradle\caches\9.0.0\transforms\7ad731f91a977023350866db47f40a86\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.focuszone.app-jetified-core-ktx-1.16.0-19 C:\Users\ayush\.gradle\caches\9.0.0\transforms\82872f13de07989639714625e52ff60c\transformed\jetified-core-ktx-1.16.0\res
+com.focuszone.app-jetified-activity-ktx-1.10.1-20 C:\Users\ayush\.gradle\caches\9.0.0\transforms\8b7f415f60d8c470291d62cc45052aa5\transformed\jetified-activity-ktx-1.10.1\res
+com.focuszone.app-jetified-lifecycle-viewmodel-ktx-2.9.4-21 C:\Users\ayush\.gradle\caches\9.0.0\transforms\8ea008123e43c1378fc104a13bbb7b62\transformed\jetified-lifecycle-viewmodel-ktx-2.9.4\res
+com.focuszone.app-jetified-navigation-runtime-release-22 C:\Users\ayush\.gradle\caches\9.0.0\transforms\9058d1f14b973020f4bbc7cce2e45889\transformed\jetified-navigation-runtime-release\res
+com.focuszone.app-jetified-lifecycle-service-2.9.4-23 C:\Users\ayush\.gradle\caches\9.0.0\transforms\953bdd34442116b763fd64e7fad15f5e\transformed\jetified-lifecycle-service-2.9.4\res
+com.focuszone.app-drawerlayout-1.1.1-24 C:\Users\ayush\.gradle\caches\9.0.0\transforms\9e2d5198dc1a2a238f15a022b77b6d0c\transformed\drawerlayout-1.1.1\res
+com.focuszone.app-jetified-room-ktx-2.8.4-25 C:\Users\ayush\.gradle\caches\9.0.0\transforms\9f49f2cc9757dd8d90569f3c9a042523\transformed\jetified-room-ktx-2.8.4\res
+com.focuszone.app-jetified-savedstate-ktx-1.3.1-26 C:\Users\ayush\.gradle\caches\9.0.0\transforms\a2d3e88e92676bee006f5f9a25f23d50\transformed\jetified-savedstate-ktx-1.3.1\res
+com.focuszone.app-jetified-startup-runtime-1.1.1-27 C:\Users\ayush\.gradle\caches\9.0.0\transforms\ab91c5d8cc36b9b36ce47c04742f1c2f\transformed\jetified-startup-runtime-1.1.1\res
+com.focuszone.app-coordinatorlayout-1.1.0-28 C:\Users\ayush\.gradle\caches\9.0.0\transforms\ad40b9960ebbce45bfdef5245a3f6bcd\transformed\coordinatorlayout-1.1.0\res
+com.focuszone.app-material-1.13.0-29 C:\Users\ayush\.gradle\caches\9.0.0\transforms\b0c866a04b000a4e1191a289679e1d46\transformed\material-1.13.0\res
+com.focuszone.app-jetified-tracing-ktx-1.2.0-30 C:\Users\ayush\.gradle\caches\9.0.0\transforms\baa31911bd9401768d06d3173b35f49b\transformed\jetified-tracing-ktx-1.2.0\res
+com.focuszone.app-slidingpanelayout-1.2.0-31 C:\Users\ayush\.gradle\caches\9.0.0\transforms\d08604a6e3d9cd1a0f14c43e819138f0\transformed\slidingpanelayout-1.2.0\res
+com.focuszone.app-constraintlayout-2.2.1-32 C:\Users\ayush\.gradle\caches\9.0.0\transforms\d6fee2820f236c51a75b469b0980538b\transformed\constraintlayout-2.2.1\res
+com.focuszone.app-jetified-core-viewtree-1.0.0-33 C:\Users\ayush\.gradle\caches\9.0.0\transforms\da194efe0af0a592e5b252d78cb73eb8\transformed\jetified-core-viewtree-1.0.0\res
+com.focuszone.app-jetified-lifecycle-livedata-core-ktx-2.9.4-34 C:\Users\ayush\.gradle\caches\9.0.0\transforms\dba0a6ffbba3e77de53b0f58065c5aea\transformed\jetified-lifecycle-livedata-core-ktx-2.9.4\res
+com.focuszone.app-jetified-savedstate-release-35 C:\Users\ayush\.gradle\caches\9.0.0\transforms\dc203ae0df9f0638134fc2a8979cc2d6\transformed\jetified-savedstate-release\res
+com.focuszone.app-core-1.16.0-36 C:\Users\ayush\.gradle\caches\9.0.0\transforms\dcf8247230165f930880c5c84039d100\transformed\core-1.16.0\res
+com.focuszone.app-jetified-lifecycle-process-2.9.4-37 C:\Users\ayush\.gradle\caches\9.0.0\transforms\dd7b2646aa36871c7b2878303166fd45\transformed\jetified-lifecycle-process-2.9.4\res
+com.focuszone.app-transition-1.5.0-38 C:\Users\ayush\.gradle\caches\9.0.0\transforms\df15eae51ec5af1353024eee97e57b38\transformed\transition-1.5.0\res
+com.focuszone.app-jetified-appcompat-resources-1.7.1-39 C:\Users\ayush\.gradle\caches\9.0.0\transforms\e0b49f449773973adef96472b692b8bc\transformed\jetified-appcompat-resources-1.7.1\res
+com.focuszone.app-lifecycle-livedata-core-2.9.4-40 C:\Users\ayush\.gradle\caches\9.0.0\transforms\e14834fa02d59ded2273d8a24d8acb3b\transformed\lifecycle-livedata-core-2.9.4\res
+com.focuszone.app-jetified-tracing-1.2.0-41 C:\Users\ayush\.gradle\caches\9.0.0\transforms\e860bf58befb068e9f69d424f3edf169\transformed\jetified-tracing-1.2.0\res
+com.focuszone.app-jetified-lifecycle-viewmodel-release-42 C:\Users\ayush\.gradle\caches\9.0.0\transforms\f140ce0424a9a67661cd2ff88c0dbfd1\transformed\jetified-lifecycle-viewmodel-release\res
+com.focuszone.app-work-runtime-2.10.5-43 C:\Users\ayush\.gradle\caches\9.0.0\transforms\f25f1ec52dd3ca62e83948148bfc32a0\transformed\work-runtime-2.10.5\res
+com.focuszone.app-jetified-annotation-experimental-1.5.0-44 C:\Users\ayush\.gradle\caches\9.0.0\transforms\f3c355d670cbcba35cb3a8dfd260c8da\transformed\jetified-annotation-experimental-1.5.0\res
+com.focuszone.app-cardview-1.0.0-45 C:\Users\ayush\.gradle\caches\9.0.0\transforms\f585c7bdd3f39f629bd9c5d719518d72\transformed\cardview-1.0.0\res
+com.focuszone.app-jetified-lifecycle-viewmodel-savedstate-release-46 C:\Users\ayush\.gradle\caches\9.0.0\transforms\f7089235c6c025aaa26120d9faded76d\transformed\jetified-lifecycle-viewmodel-savedstate-release\res
+com.focuszone.app-pngs-47 C:\Users\ayush\AndroidStudioProjects\New project\app\build\generated\res\pngs\debug
+com.focuszone.app-resValues-48 C:\Users\ayush\AndroidStudioProjects\New project\app\build\generated\res\resValues\debug
+com.focuszone.app-packageDebugResources-49 C:\Users\ayush\AndroidStudioProjects\New project\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.focuszone.app-packageDebugResources-50 C:\Users\ayush\AndroidStudioProjects\New project\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.focuszone.app-debug-51 C:\Users\ayush\AndroidStudioProjects\New project\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.focuszone.app-debug-52 C:\Users\ayush\AndroidStudioProjects\New project\app\src\debug\res
+com.focuszone.app-main-53 C:\Users\ayush\AndroidStudioProjects\New project\app\src\main\res

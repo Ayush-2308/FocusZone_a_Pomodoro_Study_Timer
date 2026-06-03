@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/screen_padding">
+
+        <TextView
+            style="@style/TextAppearance.FocusZone.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/settings" />
+
+        <TextView
+            style="@style/TextAppearance.FocusZone.SectionTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/timer_durations" />
+
+        <TextView
+            style="@style/TextAppearance.FocusZone.SettingLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/focus_duration" />
+
+        <TextView
+            android:id="@+id/focusValue"
+            style="@style/TextAppearance.FocusZone.ValueInline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/minutes_value_default" />
+
+        <SeekBar
+            android:id="@+id/focusSeek"
+            style="@style/Widget.FocusZone.SeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:max="11" />
+
+        <TextView
+            style="@style/TextAppearance.FocusZone.SettingLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/short_break_duration" />
+
+        <TextView
+            android:id="@+id/shortBreakValue"
+            style="@style/TextAppearance.FocusZone.ValueInline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/minutes_value_default" />
+
+        <SeekBar
+            android:id="@+id/shortBreakSeek"
+            style="@style/Widget.FocusZone.SeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:max="14" />
+
+        <TextView
+            style="@style/TextAppearance.FocusZone.SettingLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/long_break_duration" />
+
+        <TextView
+            android:id="@+id/longBreakValue"
+            style="@style/TextAppearance.FocusZone.ValueInline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/minutes_value_default" />
+
+        <SeekBar
+            android:id="@+id/longBreakSeek"
+            style="@style/Widget.FocusZone.SeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:max="5" />
+
+        <LinearLayout
+            style="@style/Widget.FocusZone.SettingRow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp">
+
+            <TextView
+                style="@style/TextAppearance.FocusZone.SettingLabel"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/long_break_interval" />
+
+            <ImageButton
+                android:id="@+id/intervalMinus"
+                style="@style/Widget.FocusZone.IconButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_minus" />
+
+            <TextView
+                android:id="@+id/intervalValue"
+                style="@style/TextAppearance.FocusZone.StepperValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4" />
+
+            <ImageButton
+                android:id="@+id/intervalPlus"
+                style="@style/Widget.FocusZone.IconButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_plus" />
+        </LinearLayout>
+
+        <TextView
+            style="@style/TextAppearance.FocusZone.SectionTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/notifications" />
+
+        <com.google.android.material.switchmaterial.SwitchMaterial
+            android:id="@+id/notificationSwitch"
+            style="@style/Widget.FocusZone.Switch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/session_end_notification" />
+
+        <com.google.android.material.switchmaterial.SwitchMaterial
+            android:id="@+id/breakReminderSwitch"
+            style="@style/Widget.FocusZone.Switch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/break_reminder" />
+
+        <com.google.android.material.switchmaterial.SwitchMaterial
+            android:id="@+id/dailyReminderSwitch"
+            style="@style/Widget.FocusZone.Switch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/daily_reminder" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/dailyReminderTime"
+            style="@style/Widget.FocusZone.SecondaryButton"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="8dp"
+            android:text="9:00 AM"
+            app:icon="@drawable/ic_timer" />
+
+        <TextView
+            style="@style/TextAppearance.FocusZone.SectionTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sound_vibration" />
+
+        <com.google.android.material.switchmaterial.SwitchMaterial
+            android:id="@+id/vibrateSwitch"
+            style="@style/Widget.FocusZone.Switch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/vibrate_on_end" />
+
+        <com.google.android.material.switchmaterial.SwitchMaterial
+            android:id="@+id/soundSwitch"
+            style="@style/Widget.FocusZone.Switch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/play_sound_on_end" />
+
+        <Spinner
+            android:id="@+id/soundSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="8dp"
+            android:backgroundTint="@color/focus_orange" />
+
+        <TextView
+            android:id="@+id/volumeValue"
+            style="@style/TextAppearance.FocusZone.ValueInline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/percent_value_default" />
+
+        <SeekBar
+            android:id="@+id/volumeSeek"
+            style="@style/Widget.FocusZone.SeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:max="100" />
+
+        <TextView
+            style="@style/TextAppearance.FocusZone.SectionTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/display" />
+
+        <com.google.android.material.switchmaterial.SwitchMaterial
+            android:id="@+id/keepScreenOnSwitch"
+            style="@style/Widget.FocusZone.Switch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/keep_screen_on" />
+
+        <com.google.android.material.switchmaterial.SwitchMaterial
+            android:id="@+id/quotesSwitch"
+            style="@style/Widget.FocusZone.Switch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/show_quotes" />
+
+        <com.google.android.material.switchmaterial.SwitchMaterial
+            android:id="@+id/counterSwitch"
+            style="@style/Widget.FocusZone.Switch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/show_session_counter" />
+
+        <TextView
+            style="@style/TextAppearance.FocusZone.SectionTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/data" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/exportButton"
+            style="@style/Widget.FocusZone.SecondaryButton"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:text="@string/export_csv"
+            app:icon="@drawable/ic_download" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/clearHistoryButton"
+            style="@style/Widget.FocusZone.DangerButton"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/clear_all_history"
+            app:icon="@drawable/ic_delete" />
+
+        <TextView
+            android:id="@+id/totalDataText"
+            style="@style/TextAppearance.FocusZone.Label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/total_data_default" />
+
+        <TextView
+            style="@style/TextAppearance.FocusZone.SectionTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/about" />
+
+        <TextView
+            android:id="@+id/versionText"
+            style="@style/TextAppearance.FocusZone.Body"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/version_format_default" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/privacyButton"
+            style="@style/Widget.FocusZone.SecondaryButton"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/privacy_policy"
+            app:icon="@drawable/ic_link" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/rateButton"
+            style="@style/Widget.FocusZone.SecondaryButton"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="24dp"
+            android:text="@string/rate_app"
+            app:icon="@drawable/ic_star" />
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

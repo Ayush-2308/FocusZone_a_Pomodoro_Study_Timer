@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/timerFragment">
+
+    <fragment
+        android:id="@+id/timerFragment"
+        android:name="com.focuszone.ui.timer.TimerFragment"
+        android:label="@string/timer">
+        <deepLink app:uri="focuszone://timer" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.focuszone.ui.history.HistoryFragment"
+        android:label="@string/history" />
+
+    <fragment
+        android:id="@+id/statsFragment"
+        android:name="com.focuszone.ui.stats.StatsFragment"
+        android:label="@string/statistics" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.focuszone.ui.settings.SettingsFragment"
+        android:label="@string/settings" />
+</navigation>

@@ -1,0 +1,4 @@
+-keep class com.focuszone.data.db.** { *; }
+-keep class com.focuszone.data.model.** { *; }
+-keep class com.github.mikephil.charting.** { *; }
+-dontwarn com.github.mikephil.charting.**

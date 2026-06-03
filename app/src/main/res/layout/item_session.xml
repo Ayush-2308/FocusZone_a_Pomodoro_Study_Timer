@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sessionCard"
+    style="@style/Widget.FocusZone.Card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/colorStrip"
+            android:layout_width="5dp"
+            android:layout_height="match_parent"
+            android:background="@color/focus_orange" />
+
+        <ImageView
+            android:id="@+id/modeIcon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="14dp"
+            android:src="@drawable/ic_focus"
+            app:tint="@color/focus_orange" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="12dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/sessionTitle"
+                style="@style/TextAppearance.FocusZone.BodyStrong"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="Focus Session" />
+
+            <TextView
+                android:id="@+id/sessionDuration"
+                style="@style/TextAppearance.FocusZone.Label"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="25 min" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/sessionTime"
+            style="@style/TextAppearance.FocusZone.Label"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="14dp"
+            android:gravity="center"
+            tools:text="3:42 PM" />
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-mergeDebugResources-50:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.focuszone.app-mergeDebugResources-50:/layout/fragment_history.xml",
+        "source": "com.focuszone.app-main-53:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-mergeDebugResources-50:\\layout\\item_date_header.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\item_date_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-mergeDebugResources-50:\\layout\\item_spinner.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-mergeDebugResources-50:\\layout\\fragment_history.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-mergeDebugResources-50:\\layout\\item_session.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\item_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-mergeDebugResources-50:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "com.focuszone.app-mergeDebugResources-50:/layout/fragment_stats.xml",
+        "source": "com.focuszone.app-main-53:/layout/fragment_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-mergeDebugResources-50:\\layout\\fragment_timer.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\fragment_timer.xml"
+    },
+    {
+        "merged": "com.focuszone.app-mergeDebugResources-50:/layout/fragment_settings.xml",
+        "source": "com.focuszone.app-main-53:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-mergeDebugResources-50:\\layout\\fragment_stats.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\fragment_stats.xml"
+    }
+]

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.FocusZone" parent="@android:style/Widget" />
+    <style name="TextAppearance.FocusZone" parent="@android:style/TextAppearance" />
+    <style name="ThemeOverlay.FocusZone" parent="ThemeOverlay.MaterialComponents" />
+
+    <style name="Theme.FocusZone" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="colorPrimary">@color/focus_orange</item>
+        <item name="colorPrimaryVariant">@color/focus_orange</item>
+        <item name="colorSecondary">@color/focus_orange</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:colorAccent">@color/focus_orange</item>
+        <item name="materialButtonStyle">@style/Widget.FocusZone.PrimaryButton</item>
+        <item name="alertDialogTheme">@style/ThemeOverlay.FocusZone.Dialog</item>
+    </style>
+
+    <style name="ThemeOverlay.FocusZone.Dialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="colorPrimary">@color/focus_orange</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="TextAppearance.FocusZone.Title" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="TextAppearance.FocusZone.SectionTitle" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginTop">18dp</item>
+    </style>
+
+    <style name="TextAppearance.FocusZone.Body" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextAppearance.FocusZone.BodyStrong" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.FocusZone.Label" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="TextAppearance.FocusZone.Metric" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.FocusZone.CardValue" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.FocusZone.Quote" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="TextAppearance.FocusZone.SettingLabel" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">12dp</item>
+    </style>
+
+    <style name="TextAppearance.FocusZone.ValueInline" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">@color/focus_orange</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">end</item>
+    </style>
+
+    <style name="TextAppearance.FocusZone.StepperValue" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">44dp</item>
+        <item name="android:layout_height">40dp</item>
+    </style>
+
+    <style name="Widget.FocusZone.PrimaryButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/focus_orange</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="iconTint">@color/text_primary</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Widget.FocusZone.SecondaryButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/focus_orange</item>
+        <item name="backgroundTint">@color/transparent</item>
+        <item name="android:textColor">@color/focus_orange</item>
+        <item name="iconTint">@color/focus_orange</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+
+    <style name="Widget.FocusZone.DangerButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/danger_red</item>
+        <item name="backgroundTint">@color/transparent</item>
+        <item name="android:textColor">@color/danger_red</item>
+        <item name="iconTint">@color/danger_red</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+
+    <style name="Widget.FocusZone.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/surface</item>
+        <item name="cardCornerRadius">8dp</item>
+        <item name="strokeColor">@color/surface_stroke</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="cardElevation">0dp</item>
+    </style>
+
+    <style name="Widget.FocusZone.MetricCard" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/surface</item>
+        <item name="cardCornerRadius">8dp</item>
+        <item name="strokeColor">@color/surface_stroke</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="android:layout_height">112dp</item>
+    </style>
+
+    <style name="Widget.FocusZone.MetricCardContent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">8dp</item>
+    </style>
+
+    <style name="Widget.FocusZone.MetricIcon">
+        <item name="android:layout_width">22dp</item>
+        <item name="android:layout_height">22dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:tint">@color/focus_orange</item>
+    </style>
+
+    <style name="Widget.FocusZone.SummaryColumn">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="Widget.FocusZone.StatGridCard" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/surface</item>
+        <item name="cardCornerRadius">8dp</item>
+        <item name="strokeColor">@color/surface_stroke</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">104dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+    <style name="Widget.FocusZone.StatGridContent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">14dp</item>
+    </style>
+
+    <style name="Widget.FocusZone.SettingRow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="Widget.FocusZone.IconButton">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:background">@drawable/bg_icon_button</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:tint">@color/focus_orange</item>
+    </style>
+
+    <style name="Widget.FocusZone.Switch" parent="Widget.MaterialComponents.CompoundButton.Switch">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">14sp</item>
+        <item name="useMaterialThemeColors">true</item>
+    </style>
+
+    <style name="Widget.FocusZone.SeekBar">
+        <item name="android:progressTint">@color/focus_orange</item>
+        <item name="android:thumbTint">@color/focus_orange</item>
+        <item name="android:progressBackgroundTint">@color/surface_stroke</item>
+    </style>
+
+    <style name="Widget.FocusZone.BottomNavIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/orange_20</item>
+    </style>
+</resources>

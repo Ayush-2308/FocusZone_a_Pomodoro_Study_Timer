@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusZone</string>
+    <string name="timer">Timer</string>
+    <string name="history">History</string>
+    <string name="stats">Stats</string>
+    <string name="statistics">Statistics</string>
+    <string name="settings">Settings</string>
+
+    <string name="focus">Focus</string>
+    <string name="short_break">Short Break</string>
+    <string name="long_break">Long Break</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="reset">Reset</string>
+    <string name="skip">Skip</string>
+    <string name="undo">Undo</string>
+    <string name="clear">Clear</string>
+    <string name="start_break">Start Break</string>
+
+    <string name="session_counter">Session %1$d / %2$d</string>
+    <string name="focus_sessions_today">Focus sessions today</string>
+    <string name="focus_minutes_today">Focus minutes today</string>
+    <string name="current_streak">Current streak</string>
+    <string name="default_quote">Small steps compound into serious progress.</string>
+    <string name="session_complete_message">Session complete. Great work!</string>
+    <string name="reset_timer_title">Reset timer?</string>
+    <string name="reset_timer_message">This resets the current session back to its full duration.</string>
+    <string name="notification_permission_denied">Notifications are disabled for FocusZone.</string>
+
+    <string name="total_sessions">Total Sessions</string>
+    <string name="total_focus_hours">Total Focus Hours</string>
+    <string name="longest_streak">Longest Streak</string>
+    <string name="filter_all">All</string>
+    <string name="filter_focus">Focus</string>
+    <string name="filter_breaks">Breaks</string>
+    <string name="no_chart_data">No sessions yet</string>
+    <string name="no_sessions_empty">No sessions yet. Start your first focus session!</string>
+    <string name="session_deleted">Session deleted.</string>
+    <string name="minutes_short">%1$d min</string>
+
+    <string name="weekly_overview">Weekly Overview</string>
+    <string name="monthly_heatmap">Monthly Heatmap</string>
+    <string name="best_day">Best day</string>
+    <string name="average_sessions_per_day">Average sessions per day</string>
+    <string name="total_cycles_completed">Total cycles completed</string>
+    <string name="most_productive_hour">Most productive hour</string>
+    <string name="focus_vs_break">Focus vs Break</string>
+
+    <string name="timer_durations">Timer Durations</string>
+    <string name="focus_duration">Focus Duration</string>
+    <string name="short_break_duration">Short Break Duration</string>
+    <string name="long_break_duration">Long Break Duration</string>
+    <string name="long_break_interval">Long Break Interval</string>
+    <string name="minutes_value">%1$d min</string>
+    <string name="minutes_value_default">25 min</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="percent_value_default">80%</string>
+
+    <string name="notifications">Notifications</string>
+    <string name="session_end_notification">Enable session end notification</string>
+    <string name="break_reminder">Enable break reminder</string>
+    <string name="daily_reminder">Enable daily reminder</string>
+    <string name="sound_vibration">Sound &amp; Vibration</string>
+    <string name="vibrate_on_end">Vibrate on session end</string>
+    <string name="play_sound_on_end">Play sound on session end</string>
+    <string name="display">Display</string>
+    <string name="keep_screen_on">Keep screen on during focus</string>
+    <string name="show_quotes">Show motivational quotes</string>
+    <string name="show_session_counter">Show session counter on timer ring</string>
+    <string name="data">Data</string>
+    <string name="export_csv">Export history as CSV</string>
+    <string name="clear_all_history">Clear all history</string>
+    <string name="clear_history">Clear all history?</string>
+    <string name="clear_history_message">This permanently removes every stored session from this device.</string>
+    <string name="total_data_format">Total data: %1$d sessions stored.</string>
+    <string name="total_data_default">Total data: 0 sessions stored.</string>
+    <string name="export_failed">CSV export failed.</string>
+    <string name="about">About</string>
+    <string name="version_format">Version %1$s</string>
+    <string name="version_format_default">Version 1.0.0</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="privacy_policy_url">https://example.com/focuszone/privacy</string>
+    <string name="rate_app">Rate the app</string>
+
+    <string name="timer_notification_title">FocusZone - %1$s Session</string>
+    <string name="remaining_format">%1$s remaining</string>
+    <string name="focus_complete_title">Focus session complete!</string>
+    <string name="focus_complete_body">Time for a %1$d-minute break. You have completed %2$d sessions today.</string>
+    <string name="break_complete_title">Break complete!</string>
+    <string name="break_complete_body">Ready for your next focus session?</string>
+    <string name="break_ending_title">Break ending soon</string>
+    <string name="break_ending_body">1 minute left. Get ready to focus!</string>
+    <string name="daily_reminder_title">Time to focus!</string>
+    <string name="daily_reminder_body">You have not started any sessions today. Let us get to work!</string>
+
+    <string-array name="sound_names">
+        <item>Bell</item>
+        <item>Digital</item>
+        <item>Soft Chime</item>
+    </string-array>
+</resources>

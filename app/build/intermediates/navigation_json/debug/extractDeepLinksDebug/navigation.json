@@ -1,0 +1,31 @@
+[
+  {
+    "name": "nav_graph",
+    "navigationXmlIds": [],
+    "deepLinks": [
+      {
+        "schemes": [
+          "focuszone"
+        ],
+        "host": "timer",
+        "port": -1,
+        "path": "/",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mDescription": "nav_graph.xml"
+          },
+          "mSourcePosition": {
+            "mStartLine": 10,
+            "mStartColumn": 8,
+            "mStartOffset": 406,
+            "mEndLine": 10,
+            "mEndColumn": 48,
+            "mEndOffset": 446
+          }
+        },
+        "isAutoVerify": false,
+        "action": "android.intent.action.VIEW"
+      }
+    ]
+  }
+]

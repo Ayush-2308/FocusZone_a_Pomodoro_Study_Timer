@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\raw_sound_chime.mp3.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\raw\\sound_chime.mp3"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\layout_item_spinner.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_skip.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_skip.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\raw_sound_bell.mp3.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\raw\\sound_bell.mp3"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\layout_item_session.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\item_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_pause.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_bg_icon_button.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\bg_icon_button.xml"
+    },
+    {
+        "merged": "com.focuszone.app-debug-51:/layout_fragment_settings.xml.flat",
+        "source": "com.focuszone.app-main-53:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.focuszone.app-debug-51:/layout_fragment_stats.xml.flat",
+        "source": "com.focuszone.app-main-53:/layout/fragment_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\color_bottom_nav_tint.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\color\\bottom_nav_tint.xml"
+    },
+    {
+        "merged": "com.focuszone.app-debug-51:/layout_fragment_history.xml.flat",
+        "source": "com.focuszone.app-main-53:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\raw_sound_digital.mp3.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\raw\\sound_digital.mp3"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\layout_item_date_header.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\item_date_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_focus.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_timer.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\layout_fragment_stats.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\fragment_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_stats.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\layout_fragment_timer.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\fragment_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_reset.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_reset.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_break.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_break.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_link.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-debug-51:\\drawable_ic_history.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\9.0.0\\com.focuszone.app-main-53:\\drawable\\ic_history.xml"
+    }
+]
